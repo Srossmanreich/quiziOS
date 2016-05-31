@@ -286,6 +286,7 @@
 				6140AED91CFD4C7200E9F0DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
